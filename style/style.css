@@ -1,0 +1,7 @@
+section.dimension {
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+    width: 30%;
+    padding: 2%;
+}
