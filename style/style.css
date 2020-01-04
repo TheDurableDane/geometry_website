@@ -1,7 +1,10 @@
-section.dimension {
-    border-style: solid;
-    border-color: red;
-    border-radius: 10px;
-    width: 30%;
-    padding: 2%;
+.forside_katagorier{
+    display: grid;
+    grid-template-columns: 200px 1fr 1fr 200px;
+}
+.to_d{
+    grid-column-start: 2;
+}
+.tre_d{
+    grid-column-start: 3;
 }
